@@ -3,9 +3,11 @@
 A Chrome extension to track your YouTube playlist-based courses and monitor your learning progress.
 
 ## Screenshots
-![Homepage](./screenshots/image.png)
-![Add Course](./screenshots/image2.png)
-![Course Details](./screenshots/image3.png)
+<p align="center">
+  <img src="./screenshots/image.png" width="32%" />
+  <img src="./screenshots/image2.png" width="32%" />
+  <img src="./screenshots/image3.png" width="32%" />
+</p>
 
 ## Features
 
