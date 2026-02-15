@@ -5,8 +5,8 @@ A Chrome extension to track your YouTube playlist-based courses and monitor your
 ## Screenshots
 <p align="center">
   <img src="./screenshots/image.png" width="32%" />
-  <img src="./screenshots/image2.png" width="32%" />
   <img src="./screenshots/image3.png" width="32%" />
+  <img src="./screenshots/image2.png" width="32%" />
 </p>
 
 ## Features
