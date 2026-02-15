@@ -1,6 +1,12 @@
-# YouTube Course Tracker
+# yTrackie - A YouTube Course Tracker
 
 A Chrome extension to track your YouTube playlist-based courses and monitor your learning progress.
+
+## Screenshots
+![Homepage](./screenshots/image.png)
+![Add Course](./screenshots/image2.png)
+![Course Details](./screenshots/image3.png)
+![Settings](./screenshots/image4.png)
 
 ## Features
 
